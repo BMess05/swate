@@ -1,0 +1,162 @@
+div#main_content {
+    min-height: 500px;
+}
+.bg-green-grediant {
+    background: linear-gradient(346.79deg, #1C9391 0%, rgba(139,227,140, 5) 100%), #8BE38C;
+}
+.btn-primary, .btn-primary:hover {
+    background: linear-gradient(346.79deg, #1C9391 0%, rgba(139,227,140, 5) 100%), #8BE38C;
+    border-color: #8BE38C !important;
+}
+
+form .row{
+    margin-top: 10px;
+}
+.profile {
+    width: 95%;
+    margin: 20px auto;
+    border-radius: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 37px;
+}
+
+.name {
+    background: linear-gradient(346.79deg, #1C9391 0%, rgba(139,227,140, 5) 100%), #8BE38C;
+    border-radius: 23px;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+}
+.name h5 {
+    font-size: 34px;
+    color: #fff;
+}
+.profile .row {
+    background-color: #fff;
+    border-radius: 15px;
+    margin-top: 35px;
+    margin-left: 0px;
+    width: 100%;
+    padding: 27px;
+    margin-top: 15px;
+}
+.profile .row .col-lg-6 span {
+    font-size: 20px;
+}
+.profile .row .col-lg-6 strong {
+    font-size: 19px;
+}
+
+img.logo_login {
+    width: 50%;
+    margin: 10px auto;
+}
+
+.email_verify_page {
+    min-height: 660px;
+}
+#dataTable_length {
+    display: none;
+}
+
+.sm-img {
+    height: 115px;
+    cursor: pointer;
+}
+
+.carousel-item img {
+    height: 479px;
+    width: auto !important;
+    margin: 0 auto;
+}
+a.carousel-control-prev, .carousel-control-next {
+    background: linear-gradient(346.79deg, #1C9391 0%, rgba(139,227,140, 5) 100%), #8BE38C;
+}
+.carousel-item.text-center {
+    background: rgba(152, 21, 117, 0.3);
+}
+
+div#ingredient_section {
+    margin-bottom: 20px;
+}
+.remove_ingredient {
+    cursor: pointer;
+}
+a.remove_ingredient {
+    color: #2dce89 !important;
+    border: 1px solid #2dce89;
+    padding: 0 3px;
+    border-radius: 50%;
+    margin-top: 49px;
+}
+
+
+
+/* ************* */
+._jw-tpk-container{
+    height: 184px !important;
+}
+
+.blog_image .avatar-upload .avatar-preview {
+    width: 192px;
+    height: 192px;
+    position: relative;
+    border: 6px solid #f8f8f8;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.1);
+}
+
+.blog_image .avatar-upload .avatar-preview > div {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.blog_image .avatar-upload {
+    position: relative;
+    max-width: 205px;
+}
+
+.blog_image .avatar-upload .avatar-edit {
+    position: absolute;
+    /* right: 12px; */
+    z-index: 1;
+    top: 0px;
+}
+
+.blog_image .avatar-upload .avatar-edit input + label {
+    display: inline-block;
+    width: 34px;
+    height: 34px;
+    margin-bottom: 0;
+    background: #ffffff;
+    border: 1px solid transparent;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+    font-weight: normal;
+    transition: all 0.2s ease-in-out;
+}
+
+.blog_image .avatar-upload .avatar-edit input {
+    display: none;
+}
+
+.main-images {
+    height: 17px;
+    width: 17px;
+
+}
+.main-span{
+    padding-left: 15px;
+}
+.select2-container .select2-selection--single{
+    height: 46px !important;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered{
+    color: #8898aa !important;
+}
+.ingredientsList{
+    cursor:pointer;
+}

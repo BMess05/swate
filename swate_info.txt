@@ -1,0 +1,4 @@
+## Swate Project
+
+- Item is changed to Ingredient for frontend
+- Category is changed to Ingredient Categories for frontend
